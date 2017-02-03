@@ -14,6 +14,6 @@ public class Tests {
 
     @Test
     public void testFailed(){
-        assertEquals(true,failed);
+        assertEquals(true,false);
     }
 }
